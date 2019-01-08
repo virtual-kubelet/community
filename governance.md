@@ -16,9 +16,9 @@ The Virtual Kubelet Core maintainers are responsible for:
 * Refining the governance and charter as needed
 * Making project level decisions
 * Managing the Virtual Kubelet brand
-* Controlling access to Helm assets such as source repositories, hosting, project calendars
+* Controlling access to Virtual Kubelet assets such as source repositories, hosting, project calendars
 * Handling code of conduct violations
-* Deciding what sub-groups are part of the Helm project
+* Deciding what sub-groups are part of the Virtual Kubelet project
 * Overseeing the resolution and disclosure of security issues
 * Managing financial decisions related to the project
 
@@ -30,12 +30,12 @@ The core maintainers have to match the following criterea:
 * Core maintainers must remain active, and if they are unresponsive for > 3 months maintainership unless a super-majority of the other core maintainers agree to extend the period to greater than 3 months. 
 * When there is an opening for an core maintainer anyone can nominate a project maintainer as a replacement. 
     * The nomination period is one month starting the day after the position becomes avaliable. 
-    * The nomination must be via the VK mailing list (LINK TBA)
+    * The nomination must be via the Virtual Kubelet provider mailing list.
 * When the nominated individual agrees to be a canidate, the project maintainers may vote. 
     * The voting period will be a minimum of 7 days and will close when a majority of project maintainers have voted. 
 * When an org maintianer steps down they become an emeritus maintainer.
 
-### Project Maintainers
+### Project/Provider Maintainers
 
 Project maintainers are responsible for maintaing the release cycle of virtual kubelet and the specific operations they own. Techincal decisions can be made by the project maintainers. 
 

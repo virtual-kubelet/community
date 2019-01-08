@@ -6,7 +6,7 @@ Robbie Zhang (junjiez@microsoft.com)
 
 Brian Goff (brian.goff@microsoft.com)
 
-Paulo Pires (Mesosphere)
+Paulo Pires (pjpires@gmail.com)
 
 
 ### Provider/Project maintainers
@@ -21,11 +21,12 @@ Onur Filiz (onfiliz@amazon.com)
 
 **Hyper.sh**
 
-Harry Zhang (harryzhang@zju.edu.cn)
+Jimmy Xu (jimmy@hyper.sh)
 
 **Alibaba Cloud**
 
-(TBA)
+Harry Zhang (resouer@gmail.com)
+Wei Zhang   (xianwei.zw@alibaba-inc.com)
 
 **Service Fabric Mesh**
 
