@@ -24,7 +24,7 @@ The Virtual Kubelet Core maintainers are responsible for:
 
 The core maintainers have to match the following criterea: 
 
-* There will be between 3 and 5 people
+* There will be between 3 and 5 people with a diverse representation from multiple companies. No one company shall have a majority vote. 
 * Any project maintainer is eligible to become a core maintainer
 * An core maintainer can step down by emailing our maintainer list (LINK TBA)
 * Core maintainers must remain active, and if they are unresponsive for > 3 months maintainership unless a super-majority of the other core maintainers agree to extend the period to greater than 3 months. 
