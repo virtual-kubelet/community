@@ -8,6 +8,7 @@ Brian Goff (brian.goff@microsoft.com)
 
 Paulo Pires (pjpires@gmail.com)
 
+Ben Corrie (bcorrie@vmware.com)
 
 ### Provider/Project maintainers
 
