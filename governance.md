@@ -1,12 +1,8 @@
 # Virtual Kubelet Governance
 
-The following document outlines how the virtual kubelet governance operates. Much of this document has been repurposed from Helm's governance guidelines. 
+The following document outlines how the virtual kubelet governance operates. Virtual kubelet relies on two components, the pluggable interface and the providers that "plug-in." 
 
-Virtual kubelet relies on two components, the pluggable interface and the providers that "plug-in." 
-
-## Maintainers Structure
-
-There are two levels of maintainers for virtual kubelet. The virtual kubelet core maintainers oversee the overall project and it's health. 
+There are two levels of maintainers for virtual kubelet, core maintainers and project or provider maintainers. 
 
 ### Virtual Kubelet Core Maintainers
 
@@ -28,16 +24,18 @@ The core maintainers have to match the following criterea:
 * Any project maintainer is eligible to become a core maintainer
 * An core maintainer can step down by emailing our maintainer list (LINK TBA)
 * Core maintainers must remain active, and if they are unresponsive for > 3 months maintainership unless a super-majority of the other core maintainers agree to extend the period to greater than 3 months. 
-* When there is an opening for an core maintainer anyone can nominate a project maintainer as a replacement. 
+* When there is an opening for an core maintainer anyone can nominate candidate as a replacement. 
     * The nomination period is one month starting the day after the position becomes avaliable. 
     * The nomination must be via the Virtual Kubelet provider mailing list.
-* When the nominated individual agrees to be a canidate, the project maintainers may vote. 
+* When the nominated individual agrees to be a canidate, the project maintainers and the current core maintainers may vote. 
     * The voting period will be a minimum of 7 days and will close when a majority of project maintainers have voted. 
+    * Each maintainer will get 1 vote, yes or no, and depending on the majority the candidate will either become a core maintainer or not. Maintainers will vote through a election form (Office forms or Google forms).
+    * After a maximum of 2 weeks after the voting period started, the votes will be counted up and the status of the vote will be sent out to the project and core maintainers. 
 * When an org maintianer steps down they become an emeritus maintainer.
 
 ### Project/Provider Maintainers
 
-Project maintainers are responsible for maintaing the release cycle of virtual kubelet and the specific operations they own. Techincal decisions can be made by the project maintainers. 
+Project maintainers are responsible for maintaing the release cycle of virtual kubelet and the specific operations they own. Techincal decisions can be made by the project maintainers. There can be two maintainers per provider.
 
 When maintainers need to make a decisions there are two ways decisions are made, unless described elsewhere.
 
@@ -47,6 +45,9 @@ When a consensus cannot be found a maintainer can call for a majority vote on a 
 
 The following must be voted on: 
 
-* Removing a maintainer for any other reason other than inactivity
+* Removing a core, or project maintainer for any other reason other than inactivity
 * Licensing and intellectual property changes (includes new logos, wordmarks)
+* Adding a new core maintainer or project maintainer. To successfully vote a new maintainer in there must be a super majority of 2/3s of the vote cast in favor of the candidate. 
+
+If a project maintainer remains inactive for a period of 2 months or more, they will get a notice of issues to close or work on that are relevant to their provider. If they do not make any significant progress (progress is determined by core maintainers) then they will be labeled as an inactive provider and after 6 months of inactivity will be subject to removal from the Virtual Kubelet organization. 
 
