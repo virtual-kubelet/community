@@ -48,3 +48,7 @@ Lawrence Gripper (lawrence.gripper@microsoft.com)
 **CRI**
 
 Ben Corrie (bcorrie@vmware.com)
+
+**HashiCorp Nomad**
+
+Anubhav Mishra (mishra@hashicorp.com)
