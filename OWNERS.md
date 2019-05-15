@@ -20,7 +20,7 @@ Robbie Zhang (junjiez@microsoft.com)
 
 Onur Filiz (onfiliz@amazon.com)
 
-**Hyper.sh**
+**Hyper.sh (Inactive)**
 
 Jimmy Xu (jimmy@hyper.sh)
 
@@ -37,7 +37,7 @@ Yaron Schneider (yaronsc@microsoft.com)
 
 Fei Xu (xufei40@huawei.com)
 
-**VIC**
+**VIC (Inactive)**
 
 Loc Nguyen (nloc@vmware.com)
 
