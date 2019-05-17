@@ -20,10 +20,10 @@ The Virtual Kubelet Core maintainers are responsible for:
 
 The core maintainers have to match the following criterea: 
 
-* There will be between 3 and 5 people with a diverse representation from multiple companies. No one company shall have a majority vote. 
+* Between 3 and 5 people with a diverse representation from multiple companies. No one company shall have a majority vote therefore each company will get one vote total, no matter how many maintainers they have
 * Any project maintainer is eligible to become a core maintainer
-* An core maintainer can step down by emailing our maintainer list (LINK TBA)
-* Core maintainers must remain active, and if they are unresponsive for > 3 months maintainership unless a super-majority of the other core maintainers agree to extend the period to greater than 3 months. 
+* An core maintainer can step down by emailing our maintainer list at cncf-virtual-kubelet-maintainers@lists.cncf.io
+* Core maintainers must remain active, and if they are unresponsive for > 3 months they will automatically move to emeritus maintainer, unless a super-majority of the other core maintainers agree to extend the period to greater than 3 months. 
 * When there is an opening for an core maintainer anyone can nominate candidate as a replacement. 
     * The nomination period is one month starting the day after the position becomes avaliable. 
     * The nomination must be via the Virtual Kubelet provider mailing list.
@@ -35,13 +35,13 @@ The core maintainers have to match the following criterea:
 
 ### Project/Provider Maintainers
 
-Project maintainers are responsible for maintaing the release cycle of virtual kubelet and the specific operations they own. Techincal decisions can be made by the project maintainers. There can be two maintainers per provider.
+Project maintainers are responsible for maintaing the release cycle of virtual kubelet and the specific operations they own. Techincal decisions can be made by the project maintainers. There can be up to two maintainers per provider.
 
 When maintainers need to make a decisions there are two ways decisions are made, unless described elsewhere.
 
 The default decision making process is lazy-consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
 
-When a consensus cannot be found a maintainer can call for a majority vote on a decision.
+When a consensus cannot be found a maintainer can call for a majority vote on a decision. Majority vote is between the provider maintainers and core maintainers. 
 
 The following must be voted on: 
 
