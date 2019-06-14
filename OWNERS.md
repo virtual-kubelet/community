@@ -29,17 +29,9 @@ Jimmy Xu (jimmy@hyper.sh)
 Harry Zhang (resouer@gmail.com)
 Wei Zhang   (xianwei.zw@alibaba-inc.com)
 
-**Service Fabric Mesh**
-
-Yaron Schneider (yaronsc@microsoft.com)
-
 **Huawei**
 
 Fei Xu (xufei40@huawei.com)
-
-**VIC (Inactive)**
-
-Loc Nguyen (nloc@vmware.com)
 
 **Azure Batch**
 
