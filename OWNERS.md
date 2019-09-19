@@ -2,8 +2,6 @@
 
 Ria Bhatia (ribhatia@microsoft.com)
 
-Robbie Zhang (junjiez@microsoft.com)
-
 Brian Goff (brian.goff@microsoft.com)
 
 Paulo Pires (pjpires@gmail.com)
@@ -14,7 +12,8 @@ Ben Corrie (bcorrie@vmware.com)
 
 **Azure**
 
-Robbie Zhang (junjiez@microsoft.com)
+Ernest Wong (Chun.Wong@microsoft.com)
+Ibrahim Aboulfetouh (ibabou@microsoft.com)
 
 **AWS Fargate**
 
@@ -37,10 +36,14 @@ Fei Xu (xufei40@huawei.com)
 
 Lawrence Gripper (lawrence.gripper@microsoft.com)
 
-**CRI**
+**CRI (Inactive)**
 
 Ben Corrie (bcorrie@vmware.com)
 
 **HashiCorp Nomad**
 
 Anubhav Mishra (mishra@hashicorp.com)
+
+### Emeritus Core Maintainers 
+
+Robbie Zhang (junjiez@microsoft.com)
