@@ -8,6 +8,8 @@ Paulo Pires (pjpires@gmail.com)
 
 Ben Corrie (bcorrie@vmware.com)
 
+Sargun Dhillon (sargun@netflix.com) - Elected October, 2019
+
 ### Provider/Project maintainers
 
 **Azure**
