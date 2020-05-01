@@ -46,7 +46,7 @@ Ben Corrie (bcorrie@vmware.com)
 
 Anubhav Mishra (mishra@hashicorp.com)
 
-Eotl
+**Eotl**
 
 Brendan Cox (justnoise)
 
