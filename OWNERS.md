@@ -46,6 +46,10 @@ Ben Corrie (bcorrie@vmware.com)
 
 Anubhav Mishra (mishra@hashicorp.com)
 
+Eotl
+
+Brendan Cox (justnoise)
+
 ### Emeritus Core Maintainers 
 
 Robbie Zhang (junjiez@microsoft.com)
