@@ -46,6 +46,11 @@ Ben Corrie (bcorrie@vmware.com)
 
 Anubhav Mishra (mishra@hashicorp.com)
 
+**Tensile Kube**
+
+Weidong Cai (cwdsuzhou@gmail.com)
+Ye Yin (hustcat@gmail.com)
+
 ### Emeritus Core Maintainers 
 
 Robbie Zhang (junjiez@microsoft.com)
