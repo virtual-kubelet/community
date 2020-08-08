@@ -12,6 +12,10 @@ Sargun Dhillon (sargun@netflix.com) - Elected October, 2019
 
 ### Provider/Project maintainers
 
+**Admiralty Multi-Cluster Scheduler**
+
+Adrien Trouillaud (adrien@admiralty.io)
+
 **Azure**
 
 Ernest Wong (Chun.Wong@microsoft.com)
