@@ -1,8 +1,6 @@
 ### Core Maintainers
 
-Ria Bhatia (ribhatia@microsoft.com)
-
-Brian Goff (brian.goff@microsoft.com)
+Heba Elayoty (heba.elayoty@microsoft.com)
 
 Paulo Pires (pjpires@gmail.com)
 
@@ -14,8 +12,7 @@ Sargun Dhillon (sargun@netflix.com) - Elected October, 2019
 
 **Azure**
 
-Ernest Wong (Chun.Wong@microsoft.com)
-Ibrahim Aboulfetouh (ibabou@microsoft.com)
+Heba Elayoty (heba.elayoty@microsoft.com)
 
 **AWS Fargate**
 
