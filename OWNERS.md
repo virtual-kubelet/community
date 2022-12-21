@@ -16,6 +16,7 @@ Heba Elayoty (heba.elayoty@microsoft.com)
 
 **AWS Fargate**
 
+Jiaxin Shan (seedjeffwan@gmail.com)
 Onur Filiz (onfiliz@amazon.com)
 
 **Hyper.sh (Inactive)**
